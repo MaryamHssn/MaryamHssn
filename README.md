@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MaryamHssn
-- 👀 I’m interested in AI, ML, and Federated learning. 
+- 👀 I’m interested in AI, ML, specifically federated learning, continual learning, large language models.
+- 👀 I’m also i am passionate about probability and statistics. 
 - 🌱 I’m currently learning privacy preserving machine learning methods. 
 - 💞️
 - 📫 
